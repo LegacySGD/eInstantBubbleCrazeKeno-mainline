@@ -1,0 +1,5 @@
+<ClientConfig>
+	<GameClient name="BubbleCrazeKeno" clientCode="mobile" technology="HTML" height="600" width="800" meterheight="0" meterwidth="10" gameFolder="BubbleCrazeKeno" enableFreeSpin="N" clientversion="1.0" gameId="300-2028-1" />
+	<GameClient name="BubbleCrazeKeno" clientCode="tablet" technology="HTML" height="600" width="800" meterheight="0" meterwidth="10" gameFolder="BubbleCrazeKeno" enableFreeSpin="N" clientversion="1.0" gameId="300-2028-1" />
+	<GameClient name="BubbleCrazeKeno" clientCode="desktop" technology="HTML" height="600" width="800" meterheight="0" meterwidth="10" gameFolder="BubbleCrazeKeno" enableFreeSpin="N" clientversion="1.0" gameId="300-2028-1" />
+</ClientConfig>
